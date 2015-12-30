@@ -1,14 +1,20 @@
 # UCL IRIS embed shortcode
 
 *Contributors*: tomalrussell
+
 *Tags*: ucl, iris, rps, publications, references
+
 *Requires at least*: 4.3
+
 *Tested up to*: 4.3
+
 *Stable tag*: 1.0.0
+
 *License*:            MIT License
+
 *License URI*:        http://opensource.org/licenses/MIT
 
-Include UCL Iris/RPS publication data with a shortcode: [ucl_iris upi="MBAUM76"]
+Include UCL Iris/RPS publication data with a shortcode: `[ucl_iris upi="MBAUM76"]`
 
 ## Description
 
